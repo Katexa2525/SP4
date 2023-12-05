@@ -1,0 +1,3 @@
+﻿  Lab4.cpp
+C:\Users\Катя\Desktop\5 сем\СП\Lab4\Lab4\Lab4.cpp(102,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab4.vcxproj -> C:\Users\Катя\Desktop\5 сем\СП\Lab4\x64\Debug\Lab4.exe
